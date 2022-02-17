@@ -12,3 +12,8 @@
 <div align="center">
 <img src="screenshots/console.png">
 </div>
+
+### ``` Binary Update (1.0) ```
+<div align="center">
+<img src="screenshots/binary.png">
+</div>
