@@ -3,7 +3,7 @@
 
 ### Screenshot:
 
-### ``` Home Screen ```
+### ``` Update Dialog ```
 <div align="center">
 <img src="screenshots/MANUAL.png" width="250">
 </div>
