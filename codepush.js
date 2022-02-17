@@ -22,4 +22,5 @@ const withCodePush = WrappedComponent =>{
     }
     return CodePush(CODE_PUSH_OPTIONS)(WrappedApp)
 };
+
 export default withCodePush;
